@@ -1,83 +1,79 @@
-# HireTrack – Internship & Placement Management System
+# HireTrack — Internship & Job Application Tracker
 
-HireTrack is a web-based platform designed to help students manage job applications, internships, placement opportunities, and recruitment progress in one place.
+HireTrack is a web application designed to help students and job seekers organize their internship and job applications in one place.
 
-## Features
+The goal of the project is to make the job-search process more structured by allowing users to keep track of opportunities, application status, and important job-related information.
 
-* User-friendly dashboard
-* Add and manage job/internship applications
-* Track application status
-* Manage interview stages
-* Search and filter opportunities
-* Organized application records
-* Responsive and clean user interface
+## 🚀 Features
 
-## Tech Stack
+* Track internship and job applications
+* Organize application details in one place
+* Monitor application status
+* Manage job opportunities
+* Simple and user-friendly interface
+* Responsive design for different screen sizes
 
-* React
+## 🛠️ Technologies Used
+
+* HTML
+* CSS
 * JavaScript
-* HTML5
-* CSS3
-* Vite
-* Git & GitHub
+* React.js
+* Node.js
+* Express.js
+* MongoDB
 
-## Project Structure
+## 📂 Project Structure
 
 ```text
-hiretrack/
-├── public/
-├── src/
-│   ├── components/
-│   ├── pages/
-│   └── ...
-├── package.json
-└── README.md
+HireTrack/
+├── frontend/
+├── backend/
+├── README.md
+└── ...
 ```
 
-## Getting Started
+> The exact structure may change as the project continues to develop.
 
-Clone the repository:
+## 🎯 Project Objective
 
-```bash
-git clone https://github.com/your-username/hiretrack-job-application-tracker.git
-```
+HireTrack was created as a practical full-stack development project to apply concepts such as:
 
-Navigate to the project folder:
+* Frontend development
+* Backend development
+* REST APIs
+* Database management
+* CRUD operations
+* User authentication
+* Responsive web development
 
-```bash
-cd hiretrack-job-application-tracker
-```
+## 💡 Why I Built This
 
-Install dependencies:
+Students often apply to multiple internships and jobs at the same time, making it difficult to remember application details and track progress.
 
-```bash
-npm install
-```
+HireTrack aims to provide a simple solution for managing this process in an organized way.
 
-Start the development server:
 
-```bash
-npm run dev
-```
+## 🔮 Future Improvements
 
-## Use Case
+* User authentication
+* Application reminders
+* Search and filtering
+* Dashboard analytics
+* Email notifications
+* Interview tracking
+* Resume management
 
-HireTrack helps users keep their internship and placement applications organized instead of managing application details across different notes, spreadsheets, or platforms.
-
-## Future Improvements
-
-* Authentication and user profiles
-* Interview reminders
-* Application analytics
-* Notifications
-* Resume and document management
-
-## Live Demo
-
-Add your deployed project link here.
-
-## Author
+## 👩‍💻 Developer
 
 **Chetna Tomar**
 
-GitHub: https://github.com/your-username
+Computer Science Engineering Student
+Aspiring Full-Stack Developer
+
+* GitHub: https://github.com/Chetna-Tomar
+* LinkedIn: https://www.linkedin.com/in/chetna-tomar-866a0b2a5
+
+---
+
+⭐ If you find this project useful, consider giving the repository a star!
